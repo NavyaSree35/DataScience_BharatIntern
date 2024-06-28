@@ -36,5 +36,5 @@ The dataset used in this project is provided by Kaggle and includes the followin
 * Hyperparameter Tuning: Optimizing the model parameters to improve performance.
 * Prediction: Using the trained model to make predictions on the test set.
 
-  ### Link to ddataset -  https://www.kaggle.com/datasets/yasserh/titanic-dataset
+  ### Link to dataset -  https://www.kaggle.com/datasets/yasserh/titanic-dataset
   
