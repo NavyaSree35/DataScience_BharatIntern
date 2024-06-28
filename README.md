@@ -1,5 +1,7 @@
 # DataScience_BharatIntern
 
+# TASK-1
+
 # Titanic Classification Project
 
 This repository contains a machine learning project focused on predicting the survival of passengers on the Titanic. The dataset used is the famous Titanic dataset, which is often used for binary classification problems.
@@ -33,3 +35,6 @@ The dataset used in this project is provided by Kaggle and includes the followin
 * Model Evaluation: Evaluating the performance of the models using metrics such as accuracy, precision, recall, and F1-score.
 * Hyperparameter Tuning: Optimizing the model parameters to improve performance.
 * Prediction: Using the trained model to make predictions on the test set.
+
+  ### Link to ddataset -  https://www.kaggle.com/datasets/yasserh/titanic-dataset
+  
