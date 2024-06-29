@@ -37,4 +37,19 @@ The dataset used in this project is provided by Kaggle and includes the followin
 * Prediction: Using the trained model to make predictions on the test set.
 
   ### Link to dataset -  https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
+# TASK-2
+
+# SMS Classifier
+This project aims to develop an SMS Classifier to categorize text messages as either spam or ham (not spam). The classifier is built using machine learning techniques and natural language processing (NLP) to effectively distinguish between spam and legitimate messages.
+
+### Project Overview
+The primary objective of this project is to create a robust SMS spam detection system that can accurately identify and filter out spam messages. By leveraging the power of machine learning algorithms and text processing techniques, this classifier provides an efficient solution for spam detection in SMS communications.
+
+#### Features
+* Text Preprocessing: Cleaning and preparing the SMS text data for analysis.
+* Feature Extraction: Extracting relevant features from the text using techniques like TF-IDF (Term Frequency-Inverse Document Frequency) or Count Vectorization.
+* Model Training: Training a machine learning model (e.g., Naive Bayes, Logistic Regression) on the preprocessed and feature-extracted text data.
+* Model Evaluation: Evaluating the performance of the trained model using metrics like accuracy, precision, recall, and F1-score.
+* Prediction: Classifying new SMS messages as spam or ham using the trained model.
   
